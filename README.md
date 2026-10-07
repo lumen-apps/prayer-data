@@ -1,2 +1,2 @@
 # prayer-data
-Das wöchentlichen Gebet
+Das wöchentlichen Gebet für die Lumen-App
